@@ -10,8 +10,7 @@
 
 Neste perfil, compartilho projetos pessoais, experiências com código e tudo que estou aprendendo ao longo do caminho. Meu objetivo é evoluir como desenvolvedor, dominar o front-end e, futuramente, expandir para novas tecnologias.
 
-Se você curte interfaces bem feitas, código limpo e evolução constante, segue aí! Vamos construir juntos, uma linha de código por vez.
-Não há lugar como 127.0.0.1. 
+Se você curte interfaces bem feitas, código limpo e evolução constante, segue aí! Vamos construir juntos, uma linha de código por vez. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaleshodan/thaleshodan/output/pacman-contribution-graph-dark.svg">
