@@ -23,7 +23,7 @@ Não há lugar como 127.0.0.1.
 --------------------------------------------------------------------------------------------------------------------------
 
 
-`console
+```console
   ┌──(blackarch㉿Root)-[~]
   └─$ cat profile.txt 
   Name: Wesley Pereira          Age: 27
@@ -44,7 +44,7 @@ Não há lugar como 127.0.0.1.
 
                                     ignotum         -
 
-`
+```
 
                  
 ---
